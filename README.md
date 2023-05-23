@@ -7,7 +7,7 @@
 * [0x03 Installation](#0x03-Installation)
 * [0x04 Testing](#0x04-Testing)
 * [0x05 Usage](#0x05-Usage)
-* [0x06 Authors](#0x06-Authors)
+* [0x06 Authors](# Authors)
 
 ## 0x01 Introduction
 
